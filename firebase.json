@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "/",
+    "site": "easyteckelectronics",
+    "ignore": [
+      "firebase.json",
+      "**/node_modules/**"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "easyteckelectronics",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "index.html",
+  "scripts": {
+    "start": "node index.js",
+    "build": "webpack --config webpack.config.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TinotendaMawaro/Easyteckelectronics.git"
+  },
+  "author": "Tinotenda Mawaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TinotendaMawaro/Easyteckelectronics/issues"
+  },
+  "homepage": "https://github.com/TinotendaMawaro/Easyteckelectronics#readme",
+  "dependencies": {
+    "assert": "^2.1.0",
+    "browserify-zlib": "^0.2.0",
+    "crypto-browserify": "^3.12.0",
+    "dgram": "^1.0.1",
+    "dns": "^0.2.2",
+    "firebase": "^10.5.2",
+    "https-browserify": "^1.0.0",
+    "net-browserify": "^0.2.4",
+    "os-browserify": "^0.3.0",
+    "path-browserify": "^1.0.1",
+    "querystring-es3": "^0.2.1",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "timers-browserify": "^2.0.12",
+    "tls-browserify": "^0.2.2",
+    "v9": "^2.0.5",
+    "webpack": "^5.89.0",
+    "webpack-node-externals": "^3.0.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}

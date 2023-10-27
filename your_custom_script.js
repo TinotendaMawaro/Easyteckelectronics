@@ -12,8 +12,8 @@ const firebaseConfig = {
   projectId: "easyteckelectronics",
   storageBucket: "easyteckelectronics.appspot.com",
   messagingSenderId: "910791398262",
-  appId: "1:910791398262:web:ace90df7167f8b2bbaa057",
-  measurementId: "G-VPY7V2GPCD"
+  appId: "1:910791398262:web:a310beecccf5c61abaa057",
+  measurementId: "G-685Y7LSW96"
 };
 
 // Initialize Firebase
